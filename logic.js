@@ -1,3 +1,5 @@
+alert("This content is for educational purposes only. Please use it responsibly.");
+
 // Global scope functions
 window.showLoader = function () {
   const loader = document.getElementById("loader");
